@@ -4,6 +4,6 @@ Idea for that project is to share knowledge about indoor climbing places in [Rze
 
 Webpage can be found on [dominikhajduk.github.io/climbing-in-rzeszow](http://dominikhajduk.github.io/climbing-in-rzeszow/)
 
-Please let me know if information presented here are not up to date or you find any mistaks. The easiest way is [open issue](https://github.com/dominikhajduk/climbing-in-rzeszow/issues/new) or propose [pull request](https://github.com/dominikhajduk/climbing-in-rzeszow/pull/new/gh-pages) to `master` branch. Use `index.html` [stored here](https://github.com/dominikhajduk/climbing-in-rzeszow/blob/master/index.html) as base. Thanks!
+Please let me know if the information presented here are not up to date or you find any mistakes. The easiest way is [open issue](https://github.com/dominikhajduk/climbing-in-rzeszow/issues/new) or propose [pull request](https://github.com/dominikhajduk/climbing-in-rzeszow/pull/new/gh-pages) to `master` branch. Use `index.html` [stored here](https://github.com/dominikhajduk/climbing-in-rzeszow/blob/master/index.html) as base. Thanks!
 
 Keep climbing!
