@@ -90,8 +90,15 @@ header h2 {
 }
 
 .inner {
-  width: 620px;
+  width: 85%;
   margin: 0 auto;
+}
+
+@media (min-width: 992px) {
+  .inner {
+    width: 720px;
+    margin: 0 auto;
+  }	
 }
 
 #container .inner img {
